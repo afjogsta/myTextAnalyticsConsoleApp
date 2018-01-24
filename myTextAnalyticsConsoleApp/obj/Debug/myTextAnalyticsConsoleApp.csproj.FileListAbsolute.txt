@@ -1,0 +1,15 @@
+C:\Sandbox\myTextAnalyticsConsoleApp\myTextAnalyticsConsoleApp\bin\Debug\myTextAnalyticsConsoleApp.exe.config
+C:\Sandbox\myTextAnalyticsConsoleApp\myTextAnalyticsConsoleApp\bin\Debug\myTextAnalyticsConsoleApp.exe
+C:\Sandbox\myTextAnalyticsConsoleApp\myTextAnalyticsConsoleApp\bin\Debug\myTextAnalyticsConsoleApp.pdb
+C:\Sandbox\myTextAnalyticsConsoleApp\myTextAnalyticsConsoleApp\bin\Debug\Microsoft.Azure.CognitiveServices.Language.dll
+C:\Sandbox\myTextAnalyticsConsoleApp\myTextAnalyticsConsoleApp\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Sandbox\myTextAnalyticsConsoleApp\myTextAnalyticsConsoleApp\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Sandbox\myTextAnalyticsConsoleApp\myTextAnalyticsConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Sandbox\myTextAnalyticsConsoleApp\myTextAnalyticsConsoleApp\bin\Debug\Microsoft.Azure.CognitiveServices.Language.xml
+C:\Sandbox\myTextAnalyticsConsoleApp\myTextAnalyticsConsoleApp\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Sandbox\myTextAnalyticsConsoleApp\myTextAnalyticsConsoleApp\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Sandbox\myTextAnalyticsConsoleApp\myTextAnalyticsConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Sandbox\myTextAnalyticsConsoleApp\myTextAnalyticsConsoleApp\obj\Debug\myTextAnalyticsConsoleApp.csprojResolveAssemblyReference.cache
+C:\Sandbox\myTextAnalyticsConsoleApp\myTextAnalyticsConsoleApp\obj\Debug\myTextAnalyticsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Sandbox\myTextAnalyticsConsoleApp\myTextAnalyticsConsoleApp\obj\Debug\myTextAnalyticsConsoleApp.exe
+C:\Sandbox\myTextAnalyticsConsoleApp\myTextAnalyticsConsoleApp\obj\Debug\myTextAnalyticsConsoleApp.pdb
